@@ -1,0 +1,6 @@
+{
+  "name": "Risbert Electricals - Lagos Island",
+  "description": "Authorized distributor and retailer of engineering-grade electrical supplies, pure copper cabling, industrial switchgear, breakers, and architectural lighting in Lagos Island.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
