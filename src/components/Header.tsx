@@ -30,7 +30,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenWhatsApp }) => {
           aria-label="Risbert Electricals - Back to top"
         >
           <img
-            src="/logo.png"
+            src="/RISBERT-ELECTRICALS/logo.png"
             alt="Risbert Electricals Logo"
             className="h-10 sm:h-12 w-auto object-contain rounded-md"
           />
