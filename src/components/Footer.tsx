@@ -15,7 +15,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenWhatsApp }) => {
           <div className="flex flex-col gap-4">
             <div className="flex items-center gap-3">
               <img
-                src="/logo.png"
+                src="/RISBERT-ELECTRICALS/logo.png"
                 alt="Risbert Electricals Logo"
                 className="h-10 w-auto object-contain rounded-md"
               />
